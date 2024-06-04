@@ -1,0 +1,59 @@
+Teardrop Report buck.PcbDoc
+On 6/4/2024 at 11:10:53 PM
+
+Pads visited                : 42
+
+Vias visited                : 4
+
+Pad teardrops failed : 0
+
+Pad R2-1(138.525mm,83.925mm) on Top Layer
+Pad R2-2(138.525mm,80.475mm) on Top Layer
+Pad R1-1(138.525mm,75.175mm) on Top Layer
+Pad R1-2(138.525mm,78.625mm) on Top Layer
+Pad C4-1(148.925mm,79.352mm) on Top Layer
+Pad C4-2(148.925mm,76.398mm) on Top Layer
+Pad R3-1(151.6mm,79.8mm) on Top Layer
+Pad R3-2(151.6mm,76.35mm) on Top Layer
+Pad R5-1(163.075mm,79.125mm) on Top Layer
+Pad R5-2(163.075mm,82.575mm) on Top Layer
+Pad R4-1(163.15mm,73.325mm) on Top Layer
+Pad R4-2(163.15mm,76.775mm) on Top Layer
+Pad C3-1(139.498mm,89.25mm) on Top Layer
+Pad C3-2(142.452mm,89.25mm) on Top Layer
+Pad C2-1(156.527mm,92.35mm) on Top Layer
+Pad C2-2(153.573mm,92.35mm) on Top Layer
+Pad C5-1(151.677mm,73.9mm) on Top Layer
+Pad C5-2(148.723mm,73.9mm) on Top Layer
+Pad C6-1(142.375mm,78.027mm) on Top Layer
+Pad C6-2(142.375mm,75.073mm) on Top Layer
+Pad C1-1(140.923mm,94.325mm) on Top Layer
+Pad C1-2(143.877mm,94.325mm) on Top Layer
+Pad U1-8(149.47mm,86.905mm) on Top Layer
+Pad U1-7(149.47mm,85.635mm) on Top Layer
+Pad U1-6(149.47mm,84.365mm) on Top Layer
+Pad U1-5(149.47mm,83.095mm) on Top Layer
+Pad U1-4(144.53mm,83.095mm) on Top Layer
+Pad U1-3(144.53mm,84.365mm) on Top Layer
+Pad U1-2(144.53mm,85.635mm) on Top Layer
+Pad U1-1(144.53mm,86.905mm) on Top Layer
+Pad D1-A(156.5mm,74.1mm) on Top Layer
+Pad D1-C(156.5mm,80.9mm) on Top Layer
+Pad L1-2(156.65mm,87mm) on Top Layer
+Pad L1-1(161.35mm,87mm) on Top Layer
+Pad J4-02(156.15mm,97.5mm) on Multi-Layer
+Pad J4-01(153.61mm,97.5mm) on Multi-Layer
+Pad J2-02(146.04mm,97.5mm) on Multi-Layer
+Pad J2-01(143.5mm,97.5mm) on Multi-Layer
+Pad J1-02(140.14mm,97.5mm) on Multi-Layer
+Pad J1-01(137.6mm,97.5mm) on Multi-Layer
+Pad J3-02(162.04mm,97.5mm) on Multi-Layer
+Pad J3-01(159.5mm,97.5mm) on Multi-Layer
+
+Via teardrops failed : 0
+
+Via (150.075mm,81.24mm) from Top Layer to Bottom Layer
+Via (151.675mm,84.365mm) from Top Layer to Bottom Layer
+Via (153.975mm,83.15mm) from Top Layer to Bottom Layer
+Via (160.775mm,77.975mm) from Top Layer to Bottom Layer
+
